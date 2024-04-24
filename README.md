@@ -11,6 +11,10 @@ Here are some updates about me:
 - 💬 Ask me about music, tech, whatever you want
 - 📫 How to reach me: Discord => stallacktit
 - ⚡ Fun fact: I haven't bitten anyone. Yet...
+
+<a href="https://app.daily.dev/stalla"><img src="https://api.daily.dev/devcards/v2/OmtomIQrb5XG4RASFdSnj.png?type=wide&r=cjp" width="652" alt="Elie De Tavernier's Dev Card"/></a>
+
+
 <!--
 **Stallacktit/Stallacktit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
